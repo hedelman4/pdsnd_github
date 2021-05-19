@@ -25,7 +25,7 @@ bikeshare_inputs.py
 ### Other Files
 README.md
 
-### Credits
+## Credits
 Used Bikeshare Project description from Explore US Bikeshare Data project in Programming for Data Science Nanodegree on https://Udacity.com
 
 Inspired by README document in the following repo:
