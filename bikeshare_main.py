@@ -27,7 +27,7 @@ def get_filters():
 
     # get user input for month (all, january, february, ... , june)
     month = input('Enter Month:').lower()
-    while month not in ['all','january', 'february','march','april','may','june','july','august','september','october','november','december']:
+    while month not in ['all','january', 'february','march','april','may','june']:
         month = bsi.month_input()
 
     # get user input for day of week (all, monday, tuesday, ... sunday)
