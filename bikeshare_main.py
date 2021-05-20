@@ -26,7 +26,7 @@ def get_filters():
         city = bsi.city_input()
 
     # get user input for month (all, january, february, ... , june)
-    month = input('Enter Month:').lower()
+    month = input('Enter Month(January - June):').lower()
     while month not in ['all','january', 'february','march','april','may','june']:
         month = bsi.month_input()
 
